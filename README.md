@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **nitinmanocha/nitinmanocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,3 +26,4 @@ Here's something about me :
 - 📫 You can reach me at : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-yadav/)](https://www.linkedin.com/in/nitin-manocha-645575147/)
  - 💬 You can check my blogs at https://medium.com/@nitinmanocha16
  - 📫 Packages I Published : https://www.npmjs.com/~nitinmanocha
+ - My Resume : https://www.npmjs.com/package/resume-nitin
