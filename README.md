@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Nitin Manocha 
-<img src="https://www.pandasecurity.com/mediacenter/src/uploads/2019/07/pandasecurity-How-do-hackers-pick-their-targets.jpg" width="500">
+<img src="https://i.gifer.com/5eKX.gif" width="900">
 
 ## Hi there 👋  Welcome to my profile
 
