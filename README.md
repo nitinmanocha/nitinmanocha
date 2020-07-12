@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Nitin Manocha 
-<img src="https://i.gifer.com/5eKX.gif">
 
+<img src="https://miro.medium.com/max/680/0*gqO3slLmGb4mUeje.gif" alt="avatar"/>
 
 ## Hi there 👋  Welcome to my profile
 
