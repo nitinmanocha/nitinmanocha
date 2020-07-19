@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Here's something about me :
 
-- 💁‍♀️ I'm a Computer Science Grduate.
+- 💁‍♀️ I'm a Computer Science Graduate.
 - 📖 Currently working as Backend Developer. 
 - 📫 You can reach me at : [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anushka-yadav/)](https://www.linkedin.com/in/nitin-manocha-645575147/)
  - 💬 You can check my blogs at https://medium.com/@nitinmanocha16
