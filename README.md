@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Nitin Manocha 
 
-<img src="https://miro.medium.com/max/680/0*gqO3slLmGb4mUeje.gif" alt="avatar"/>
+<img src="https://res.cloudinary.com/thewanderlusts-in/image/upload/v1595315346/skoxm2dk0fayjzapjku0.gif" alt="avatar"/>
 
 ## Hi there 👋  Welcome to my profile
 
